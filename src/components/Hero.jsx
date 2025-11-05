@@ -23,7 +23,7 @@ export default function Hero() {
           </div>
         </div>
         <div className="relative h-[320px] sm:h-[380px] md:h-[420px] lg:h-[460px] xl:h-[520px]">
-          <Spline scene="https://prod.spline.design/41MGRk-UDPKO-l6W/scene.splinecode" style={{ width: '100%', height: '100%' }} />
+          <Spline scene="https://prod.spline.design/ezRAY9QD27kiJcur/scene.splinecode" style={{ width: '100%', height: '100%' }} />
           <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-white/40 via-transparent to-transparent" />
         </div>
       </div>
